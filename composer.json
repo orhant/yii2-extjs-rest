@@ -12,8 +12,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/tvip/yii2-extjs-rest/issues?state=open",
-        "source": "https://github.com/tvip/yii2-extjs-rest"
+        "issues": "https://github.com/orhant/yii2-extjs-rest/issues?state=open",
+        "source": "https://github.com/orhant/yii2-extjs-rest"
     },
     "require": {
         "yiisoft/yii2": "~2.0"
