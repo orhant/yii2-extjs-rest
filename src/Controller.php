@@ -1,6 +1,6 @@
 <?php
 /**
- * @link http://www.tvip.ru
+ * @link http://www.onedese.ru
  * @copyright Copyright (c) 2016 Tvip Ltd.
  */
 
