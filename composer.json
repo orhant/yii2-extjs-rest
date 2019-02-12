@@ -1,5 +1,5 @@
 {
-    "name": "tvip/yii2-extjs-rest",
+    "name": "onedese/yii2-extjs-rest",
     "description": "REST API for Sencha ExtJS 5+",
     "type": "yii2-extension",
     "keywords": ["yii2", "yii 2", "extjs", "extjs6", "extjs5", "rest", "sencha", "API"],
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "tvip\\ExtJsRest\\": "src/"
+            "onedese\\ExtJsRest\\": "src/"
         }
     },
     "extra": {
